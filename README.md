@@ -1,4 +1,4 @@
-# projects-id-like-to-do
+# Projects I'd Like To Do
 A little to-do list of projects I'd like to try doing some day. 
 
 
